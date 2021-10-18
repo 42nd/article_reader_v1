@@ -47,7 +47,7 @@
                         $t .= $gets[$j];
                     }
                 }
-                echo "<a href='read_article.html?article_link=article/" . $i . ".txt" . "' style='color: black;'>" . "$i | " . $t . "</a><br />";
+                echo "<a href='read_article.php?article_link=article/" . $i . ".txt" . "' style='color: black;'>" . "$i | " . $t . "</a><br />";
                 @fclose($fp);
             }
             else {
