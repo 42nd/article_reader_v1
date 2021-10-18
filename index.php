@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8" />
-    <link href="http://dcoding.kr/style/index.html.css" rel="stylesheet" />
+    <link href="index.php.css" rel="stylesheet" />
 </head>
 <body>
     <?php
