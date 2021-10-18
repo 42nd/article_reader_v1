@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+
+* {
+    font-family: "Nanum Gothic";
+}
+
+redtext {
+    color: red;
+}
+
+orangetext {
+    color: orange;
+}
+
+yellowtext {
+    color: yellow;
+}
+
+greentext {
+    color: green;
+}
+
+bluetext {
+    color: blue;
+}
+
+purpletext {
+    color: purple;
+}
+
+blacktext {
+    color: black;
+}
+
+whitetext {
+    color: white
+}
